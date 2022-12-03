@@ -4,6 +4,10 @@
 # 排除所有.class文件:
 *.class
 
+# 不排除.gitignore和App.class:
+!.gitignore
+!App.class
+
 # Windows:
 Thumbs.db
 ehthumbs.db
